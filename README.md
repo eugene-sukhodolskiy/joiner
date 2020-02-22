@@ -20,6 +20,6 @@ and result
 Also you can write `@repeat:7; @join:filename.html; @end;`
 
 To run the script **joiner**, you need to open a terminal and write a line like
-`php joiner.php myfolder/input-file.html anotherfolder/output-file.html`
+`php joiner.php myfolder/input-file.html anotherfolder/output-file.html` and you can added word `watch` if needs compile your input file in live
 
 [Release page](https://github.com/eugene-sukhodolskiy/joiner/tags)
