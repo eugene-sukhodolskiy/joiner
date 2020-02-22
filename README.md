@@ -19,7 +19,7 @@ and result
     Lorem ipsum dolor.
 Also you can write `@repeat:7; @join:filename.html; @end;`
 
-For running **joiner** script need opens terminal and write string like
+To run the script **joiner**, you need to open a terminal and write a line like
 `php joiner.php myfolder/input-file.html anotherfolder/output-file.html`
 
 [Release page](https://github.com/eugene-sukhodolskiy/joiner/tags)
